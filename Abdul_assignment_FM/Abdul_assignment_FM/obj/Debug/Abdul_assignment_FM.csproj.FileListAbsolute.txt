@@ -1,0 +1,6 @@
+c:\users\talha randhawa\documents\visual studio 2013\Projects\Abdul_assignment_FM\Abdul_assignment_FM\bin\Debug\Abdul_assignment_FM.exe.config
+c:\users\talha randhawa\documents\visual studio 2013\Projects\Abdul_assignment_FM\Abdul_assignment_FM\bin\Debug\Abdul_assignment_FM.exe
+c:\users\talha randhawa\documents\visual studio 2013\Projects\Abdul_assignment_FM\Abdul_assignment_FM\bin\Debug\Abdul_assignment_FM.pdb
+c:\users\talha randhawa\documents\visual studio 2013\Projects\Abdul_assignment_FM\Abdul_assignment_FM\obj\Debug\Abdul_assignment_FM.csprojResolveAssemblyReference.cache
+c:\users\talha randhawa\documents\visual studio 2013\Projects\Abdul_assignment_FM\Abdul_assignment_FM\obj\Debug\Abdul_assignment_FM.exe
+c:\users\talha randhawa\documents\visual studio 2013\Projects\Abdul_assignment_FM\Abdul_assignment_FM\obj\Debug\Abdul_assignment_FM.pdb
